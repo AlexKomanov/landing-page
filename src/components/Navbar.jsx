@@ -42,6 +42,7 @@ const Button = styled.button`
   color: white;
   font-weight: bold;
   border-radius: 10px;
+  letter-spacing: 1px;
   cursor: pointer;
 `;
 
